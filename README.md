@@ -27,8 +27,8 @@
 > |3|0727|貫綸<br>助教|[Python<br>資料正則化](https://reurl.cc/ZG8roW)|[:clipboard:](https://reurl.cc/1Yl2aV "Note for Python_03 class")|:video_camera:|
 > |4|0727|偉傑<br>助教|[Python<br>網路爬蟲（request）](https://reurl.cc/6aXERb)|[:clipboard:](https://reurl.cc/gWN0jX "Note for Python_04 class")|:video_camera:|
 > |5|0727|祐全<br>助教|[Python<br>資料彙整（pandas）& <br> 資料視覺化（plotly）](https://reurl.cc/j8Vkep)|[:clipboard:](https://reurl.cc/KAEpng "Note for Python_05 class")|:video_camera:|
-> |6|0728|芸琤<br>教授|[Python<br>文字探勘（jieba）](https://reurl.cc/LbepoL)|[:clipboard:](https://reurl.cc/DgYdQR "Note for Python_06 class")|:video_camera:|
-> |7|0728|芸琤<br>教授|[Python<br>文本共現網路分析](https://reurl.cc/DgYdpE)|[:clipboard:](https://reurl.cc/bXekjM "Note for Python_07 class")|:video_camera:|
+> |6|0728|芸琤<br>教授|[Python<br>文字探勘（jieba）](https://reurl.cc/DgYE3N)|[:clipboard:](https://reurl.cc/DgYdQR "Note for Python_06 class")|:video_camera:|
+> |7|0728|芸琤<br>教授|[Python<br>文本共現網路分析](https://reurl.cc/R0RmOz)|[:clipboard:](https://reurl.cc/bXekjM "Note for Python_07 class")|:video_camera:|
 > ---
 > * **活動、講座型課程**  
 > 
