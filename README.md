@@ -8,7 +8,7 @@
 >   * 藉由合作學習、實作專題、迷你黑客松、翻轉教學、現場教學操作實況錄影及程式範例等種種豐富且多元的學習方式，提高學生對於學習的樂趣。
 > * 營隊時間：2021/07/26 ～ 2021/07/30（共5天）  
 > * 營隊地點：  
->   * [Gather](https://reurl.cc/lRn5GQ)（password：lawtech）  
+>   * [Gather](https://reurl.cc/dGOAnD)（password：lawtech）  
 >   * [Google Meet](https://meet.google.com/zur-jvge-gqz)（class-code：zur-jvge-gqz）  
 > * [營隊官網](https://sites.google.com/view/lawtechscu)  
 >   * 營隊主講師：蔡芸琤 Tsai, Yun-Cheng 教授
