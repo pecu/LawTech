@@ -41,15 +41,27 @@
 > 
 
 <!-- [:video_camera:]( "Video for Python_01 class") -->
+## :memo: [小組營隊日記](https://reurl.cc/NrOxN6)
+|組別|成員|小隊輔|
+|:--:|:---:|:----:|
+|[1](/GroupWork/Team_1.md)||助教|
+|[2](/GroupWork/Team_2.md)||助教|
+|[3](/GroupWork/Team_3.md)||助教|
+|[4](/GroupWork/Team_4.md)||助教|
+|[5](/GroupWork/Team_5.md)||助教|
+|[6](/GroupWork/Team_6.md)||助教|
+|[7](/GroupWork/Team_7.md)||助教|
+|[8](/GroupWork/Team_8.md)||助教|
+|[9](/GroupWork/Team_9.md)||助教|
+|[10](/GroupWork/Team_10.md)||助教|
 
 ## :book: 每日營隊紀錄
+### :round_pushpin: 20210726：第一天
 
-### 20210726：第一天
+### :round_pushpin: 20210727：第二天
 
-### 20210727：第二天
+### :round_pushpin: 20210728：第三天
 
-### 20210728：第三天
+### :round_pushpin: 20210729：第四天
 
-### 20210729：第四天
-
-### 20210730：第五天
+### :round_pushpin: 20210730：第五天
