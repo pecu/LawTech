@@ -7,13 +7,12 @@
 >   * 自動化整理後的資料進行文字探勘與應用發想及實作，以利後續法律作業的分析應用效率。  
 >   * 藉由合作學習、實作專題、迷你黑客松、翻轉教學、現場教學操作實況錄影及程式範例等種種豐富且多元的學習方式，提高學生對於學習的樂趣。
 > * 營隊時間：2021/07/26 ～ 2021/07/30（共5天）  
-> * 營隊地點：  
->   * [Gather](https://reurl.cc/dGOAnD)（password：lawtech）  
->   * [Google Meet](https://meet.google.com/zur-jvge-gqz)（class-code：zur-jvge-gqz）  
+> * 營隊地點：[Gather](https://reurl.cc/dGOAnD)
 > * [營隊官網](https://sites.google.com/view/lawtechscu)  
 >   * 營隊主講師：蔡芸琤 Tsai, Yun-Cheng 教授
 >   * 助教團隊介紹
 >   * 營隊課程暨流程表
+>   * 營隊每日錄影紀錄
 >   
 
 
@@ -34,7 +33,7 @@
 > 
 > |日期|授課講師|課程名稱|錄影|
 > |:--:|:---:|:----:|:---:|
-> |0726|莊東碩 創辦人|講座：|:video_camera:|
+> |0726|莊東碩 創辦人|講座：法律科技之應用|:video_camera:|
 > |0729||講座：如何結合深度學習與法律研究 - 人工智慧量刑模型|:video_camera:|
 > |全程|團隊全員|迷你黑客松|:video_camera:|
 > 
