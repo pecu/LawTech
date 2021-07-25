@@ -33,25 +33,26 @@
 > 
 > |日期|授課講師|課程名稱|錄影|
 > |:--:|:---:|:----:|:---:|
-> |0726|莊東碩 創辦人|講座：法律科技之應用|:video_camera:|
-> |0729||講座：如何結合深度學習與法律研究 - 人工智慧量刑模型|:video_camera:|
-> |全程|團隊全員|迷你黑客松|:video_camera:|
-> 
+> |0726|莊東碩 創辦人|講座：法律科技領域的商業洞察|:video_camera:|
+> |0729|邵軒磊教授<br>黃詩淳教授|講座：如何結合深度學習與法律研究 - 人工智慧量刑模型|:video_camera:|
+> |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/j82vk2)|
+<!-- [:video_camera:](https://reurl.cc/j82vk2) -->
+
 
 <!-- [:video_camera:]( "Video for Python_01 class") -->
 ## :memo: [小組營隊日記](https://reurl.cc/NrOxN6)
-|組別|成員|小隊輔|
-|:--:|:---:|:----:|
-|[1](/GroupWork/01_Team_1.md)||助教|
-|[2](/GroupWork/02_Team_2.md)||助教|
-|[3](/GroupWork/03_Team_3.md)||助教|
-|[4](/GroupWork/04_Team_4.md)||助教|
-|[5](/GroupWork/05_Team_5.md)||助教|
-|[6](/GroupWork/06_Team_6.md)||助教|
-|[7](/GroupWork/07_Team_7.md)||助教|
-|[8](/GroupWork/08_Team_8.md)||助教|
-|[9](/GroupWork/09_Team_9.md)||助教|
-|[10](/GroupWork/10_Team_10.md)||助教|
+|              組別              |               成員               |   小隊輔    |
+| :----------------------------: | :------------------------------: | :---------: |
+| [一](/GroupWork/01_Team_1.md)  |  劉岳翰、黃郁庭、牟善佑、吳念純  | 賴佑全 助教 |
+| [二](/GroupWork/02_Team_2.md)  |  徐曉陽、郭和沛、黃子瑜、張麗雲  | 陳靖翔 助教 |
+| [三](/GroupWork/03_Team_3.md)  |  楊立薇、陳宜謙、李承翰、蔣思齊  | 王沛璇 助教 |
+| [四](/GroupWork/04_Team_4.md)  | 鄭惠慈、林汪鴻宇、張曉玉、藍宇彤 | 張培莉 助教 |
+| [五](/GroupWork/05_Team_5.md)  |  沈孟葳、陳楨貽、王泓彬、阮采縈  | 林睿瀚 助教 |
+| [六](/GroupWork/06_Team_6.md)  |  田毓慈、林孟微、張郡庭、曾之筠  | 洪鈺姍 助教 |
+| [七](/GroupWork/07_Team_7.md)  |  周本凱、林琰晨、游姍樺、林煒傑  | 楊雅云 助教 |
+| [八](/GroupWork/08_Team_8.md)  |  甯彥端、林盈秀、劉繕愷、朱予婕  | 林奕君 助教 |
+| [九](/GroupWork/09_Team_9.md)  |  黃祥軒、廖子賢、林佑樺、林宛誼  | 吳貫綸 助教 |
+| [十](/GroupWork/10_Team_10.md) |  李哲源、許萱歆、牟敦恆、莊雅筑  | 陳偉傑 助教 |
 
 ## :book: 每日營隊紀錄
 ### :round_pushpin: 20210726：第一天

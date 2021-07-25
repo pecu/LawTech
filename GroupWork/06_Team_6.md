@@ -1,9 +1,12 @@
-# :six: 【第 6 組】營隊日記
+# :six: 【第 六 組】營隊日記
 
-## :smile: 小組成員【隊輔：XX助教】
-| 成員   | email |
-| :---: | :---: |
-|  XXX  |  XXX  |
+## :smile: 小組成員【隊輔：洪鈺姍 助教】
+|  成員  |         Email          |
+| :----: | :--------------------: |
+| 田毓慈 |  r08a41014@ntu.edu.tw  |
+| 林孟微 | mengwei0612@gmail.com  |
+| 張郡庭 | juntingchang@gmail.com |
+| 曾之筠 |    ccyunq@gmail.com    |
 
 ## :memo: 每日日記  
 **記錄主要是針對迷你黑客松的相關討論進行填寫。**
