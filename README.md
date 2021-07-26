@@ -13,7 +13,7 @@
 >   * 助教團隊介紹
 >   * 營隊課程暨流程表
 >   * 營隊每日錄影紀錄
->   
+>
 
 
 ## :books: 課程簡介
@@ -21,8 +21,8 @@
 >
 > |編號|日期|授課講師|課程名稱(教材)|課堂重點|錄影|
 > |:--:|:--:|:---:|:----:|:--:|:---:|
-> |1|0726|培莉<br>助教|[Python 基礎1<br>（Anaconda 安裝與 GitHub 帳號註冊、組合 1、組合 2）](https://reurl.cc/yEWQaM)|[:clipboard:](https://reurl.cc/0jk28b "Note for Python_01 class")|[:video_camera:](https://reurl.cc/W3gMq5)|
-> |2|0726|貫綸<br>助教|[Python<br>基礎2（組合 3、組合 4）](https://reurl.cc/pg8WRZ)|[:clipboard:](https://reurl.cc/6aXE3O "Note for Python_02 class")|[:video_camera:](https://reurl.cc/xG28ne)|
+> |1|0726|培莉<br>助教|[Python 基礎1<br>（Anaconda 安裝與 GitHub 帳號註冊、組合 1、組合 2）](https://reurl.cc/yEWQaM)|[:clipboard:](https://reurl.cc/0jk28b "Note for Python_01 class")|[:video_camera:](https://reurl.cc/W3gMq5 "Video for Python_01 class")|
+> |2|0726|貫綸<br>助教|[Python<br>基礎2（組合 3、組合 4）](https://reurl.cc/pg8WRZ)|[:clipboard:](https://reurl.cc/6aXE3O "Note for Python_02 class")|[:video_camera:](https://reurl.cc/xG28ne "Video for Python_02 class")|
 > |3|0727|貫綸<br>助教|[Python<br>資料正則化](https://reurl.cc/ZG8roW)|[:clipboard:](https://reurl.cc/1Yl2aV "Note for Python_03 class")|:video_camera:|
 > |4|0727|偉傑<br>助教|[Python<br>網路爬蟲（request）](https://reurl.cc/6aXERb)|[:clipboard:](https://reurl.cc/gWN0jX "Note for Python_04 class")|:video_camera:|
 > |5|0727|祐全<br>助教|[Python<br>資料彙整（pandas）& <br> 資料視覺化（plotly）](https://reurl.cc/j8Vkep)|[:clipboard:](https://reurl.cc/KAEpng "Note for Python_05 class")|:video_camera:|
@@ -33,13 +33,11 @@
 > 
 > |日期|授課講師|課程名稱|錄影|
 > |:--:|:---:|:----:|:---:|
-> |0726|莊東碩 創辦人|講座：法律科技領域的商業洞察|:video_camera:|
+> |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4)|[:video_camera:](https://reurl.cc/vq2Vne)|
 > |0729|邵軒磊教授<br>黃詩淳教授|講座：如何結合深度學習與法律研究 - 人工智慧量刑模型|:video_camera:|
 > |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/j82vk2)|
-<!-- [:video_camera:](https://reurl.cc/j82vk2) -->
+>
 
-
-<!-- [:video_camera:]( "Video for Python_01 class") -->
 ## :memo: [小組營隊日記](https://reurl.cc/NrOxN6)
 |              組別              |               成員               |   小隊輔    |
 | :----------------------------: | :------------------------------: | :---------: |
