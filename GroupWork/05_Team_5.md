@@ -12,14 +12,14 @@
 **記錄主要是針對迷你黑客松的相關討論進行填寫。**
 
 ### :round_pushpin: 2021/07/26 第一天
-> * 會議時間：
-> * 會議參與人員：
+> * 會議時間：16:00-17:00 20:00-
+> * 會議參與人員：陳楨貽 王泓彬 阮采縈
 > * 討論內容：  
->    * XXX
->    * XXX
+>    * 專案主題
+>    * 應用場景
+>    * 資料來源
 > * 總結討論結果：  
->    1. XXX
->    2. XXX
+>    1. https://docs.google.com/presentation/d/1u5-FRFoHzw3jvpcDRm2EauW8Cn0psalAY_7EMMFusLY/edit#slide=id.ge54e474b42_0_138
 ---
 ### :round_pushpin: 2021/07/27 第二天
 > * 會議時間：
