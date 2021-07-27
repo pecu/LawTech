@@ -38,7 +38,6 @@
 >    * **呈現方式**
 >       * 查找律師首頁：[Skyscanner](https://www.skyscanner.com.tw/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net)
 >       * 律師個人資訊頁面：[Lawsnote](https://page.lawsnote.com/page/5c4ae23b5d7ed80a2549f9f0)
->       * [使用Skyscanner網頁方式](https://www.skyscanner.com.tw/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net)
 >    * **爬蟲資料來源**
 >       * [Lawsnote](https://www.lawsnote.com/)
 ---
