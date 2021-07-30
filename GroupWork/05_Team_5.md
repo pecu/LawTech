@@ -21,7 +21,7 @@
 ---
 ### :round_pushpin: 2021/07/27 第二天
 > * 會議時間：16:00-17:00 20:00-
-> * 會議參與人員：陳楨貽 王泓彬 阮采縈
+> * 會議參與人員：沈孟葳 陳楨貽 王泓彬 阮采縈
 > * 討論內容：  
 >    * 專案主題
 >    * 應用場景
@@ -30,31 +30,28 @@
 >     1. https://docs.google.com/presentation/d/1u5-FRFoHzw3jvpcDRm2EauW8Cn0psalAY_7EMMFusLY/edit#slide=id.ge54e474b42_0_138
 ---
 ### :round_pushpin: 2021/07/28 第三天
-> * 會議時間：
-> * 會議參與人員：
+> * 會議時間：20:00-22:00
+> * 會議參與人員：沈孟葳 陳楨貽 王泓彬 阮采縈
 > * 討論內容：  
->    * XXX
->    * XXX
+>    * 資料來源與爬取
+>    * 詳細說明專案技術面實作方式
 > * 總結討論結果：  
->    1. XXX
->    2. XXX
+>    1. https://docs.google.com/document/d/1xlhMmr7VEQTo2scX5r20laGhEAQqAA_nsPcjWONR5QA/edit
 ---
 ### :round_pushpin: 2021/07/29 第四天
 > * 會議時間：
-> * 會議參與人員：
-> * 討論內容：  
->    * XXX
->    * XXX
+> * 會議參與人員：沈孟葳 陳楨貽 王泓彬 阮采縈
+> * 討論內容： 20:30- 
+>    * 資料整理與文字探勘
+>    * 詳細說明專案所應用之場景
+>    * 詳細說明最終分析結果
 > * 總結討論結果：  
->    1. XXX
->    2. XXX
+>    1. https://onedrive.live.com/view.aspx?resid=284A87B50635409!1429&ithint=file%2cpptx&authkey=!AHEMWytdoAOGVVM
 ---
 ### :round_pushpin: 2021/07/30 第五天
 > * 會議時間：
-> * 會議參與人員：
-> * 討論內容：  
->    * XXX
->    * XXX
+> * 會議參與人員：沈孟葳 陳楨貽 王泓彬 阮采縈
+> * 討論內容： 09:00- 
+>    * 成果發表影片製作
 > * 總結討論結果：  
->    1. XXX
->    2. XXX
+>    1. 
