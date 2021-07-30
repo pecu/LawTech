@@ -9,6 +9,7 @@
 > * 營隊時間：2021/07/26 ～ 2021/07/30（共5天）  
 > * 營隊地點：[Gather](https://reurl.cc/dGOAnD)
 > * [營隊官網](https://sites.google.com/view/lawtechscu)  
+> * [黑客松發表會引言](https://docs.google.com/presentation/d/e/2PACX-1vS7ghw_l1rrjwp5Qeu_ZIS27dl4Hyy-ZlfoaYJMNY_AErZX1pShsaalPA0rLL9L-KyV6Tknjqmjn1S4/pub?start=false&loop=false&delayms=3000)
 >   * 營隊主講師：蔡芸琤 Tsai, Yun-Cheng 教授
 >   * 助教團隊介紹
 >   * 營隊課程暨流程表
