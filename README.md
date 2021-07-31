@@ -34,8 +34,8 @@
 > 
 > |日期|授課講師|課程名稱|錄影|
 > |:--:|:---:|:----:|:---:|
-> |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4 "第一場講座PPT")|[:video_camera:](https://reurl.cc/vq2Vne "第一場講座錄影")|
-> |0729|邵軒磊教授<br>黃詩淳教授|講座：如何結合深度學習與法律研究 - 人工智慧量刑模型|[:video_camera:](https://reurl.cc/XWrMyD "第二場講座錄影")|
+> |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4)|[:video_camera:](https://reurl.cc/vq2Vne)|
+> |0729|邵軒磊教授<br>黃詩淳教授|[講座：如何結合深度學習與法律研究 - 人工智慧量刑模型](https://reurl.cc/ogbaMM)|[:video_camera:](https://reurl.cc/4aD0zK)|
 > |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/j82vk2)|
 >
 
