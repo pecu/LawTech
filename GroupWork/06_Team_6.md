@@ -163,7 +163,7 @@
 > * 會議目的：**完成成果發表會的PPT匯報**
 > * 會議記錄人：張郡庭、洪鈺姍(修)
 > * 成果發表會匯報PPT：[【Team6 - Final】一杯下肚，賠一輩子，以杯數預測量刑。](https://reurl.cc/4a7beD)
-> * Final Figma：https://reurl.cc/Q9kVkO
+> * Final Figma：[刑酒器App](https://reurl.cc/Q9kVkO)
 > * 討論內容：  
 >    * 精修成果發表會的PPT。
 >    * Figma的資料視覺化的分析圖補齊。
