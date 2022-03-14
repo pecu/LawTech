@@ -36,8 +36,9 @@
 > |:--:|:---:|:----:|:---:|
 > |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4)|[:video_camera:](https://youtu.be/MemVt1SVa-4)|
 > |0729|邵軒磊教授<br>黃詩淳教授|[講座：如何結合深度學習與法律研究 - 人工智慧量刑模型](https://reurl.cc/ogbaMM)|[:video_camera:](https://youtu.be/keVZQ9ptlio)|
-> |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/Zr5GeA  "Video for CP1_0727")<br>[:video_camera:](https://reurl.cc/6E3avd  "Video for CP2_0728")<br>[:video_camera:](https://reurl.cc/12aYvX  "Video for CP3_0729")<br>[:video_camera:](https://youtu.be/61XTb6foZtg  "Video for FinalReport")<br>|
->
+> |0727-0729|團隊全員|迷你黑客松階段性成果驗收|[:video_camera:](https://reurl.cc/Zr5GeA  "Video for CP1_0727")<br>[:video_camera:](https://reurl.cc/6E3avd  "Video for CP2_0728")<br>[:video_camera:](https://reurl.cc/12aYvX  "Video for CP3_0729")<br>|
+>|0730|團隊全員|迷你黑客松成果發表會|[:video_camera:](https://youtu.be/61XTb6foZtg  "Video for FinalReport")|
+>|0730|團隊全員|迷你黑客松頒獎、講評暨營隊閉幕式|[:video_camera:](https://youtu.be/AjwZ1_BUIUI  "Video for Award&Comment&Close")|
 
 ## :memo: [小組營隊日記](https://reurl.cc/NrOxN6)
 |              組別              |               成員               |   小組長    |
