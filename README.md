@@ -22,21 +22,21 @@
 >
 > |編號|日期|授課講師|課程名稱(教材)|課堂重點|錄影|
 > |:--:|:--:|:---:|:----:|:--:|:---:|
-> |1|0726|培莉<br>助教|[Python 基礎1<br>（Anaconda 安裝與 GitHub 帳號註冊、組合 1、組合 2）](https://reurl.cc/yEWQaM "Learning Materials for Python_01 class")|[:clipboard:](https://reurl.cc/0jk28b "Note for Python_01 class")|[:video_camera:](https://reurl.cc/W3gMq5 "Video for Python_01 class")|
-> |2|0726|貫綸<br>助教|[Python<br>基礎2（組合 3、組合 4）](https://reurl.cc/pg8WRZ "Learning Materials for Python_02 class")|[:clipboard:](https://reurl.cc/6aXE3O "Note for Python_02 class")|[:video_camera:](https://reurl.cc/xG28ne "Video for Python_02 class")|
-> |3|0727|貫綸<br>助教|[Python<br>資料正則化](https://reurl.cc/ZG8roW "Learning Materials for Python_03 class")|[:clipboard:](https://reurl.cc/1Yl2aV "Note for Python_03 class")|[:video_camera:](https://reurl.cc/VEoprn "Video for Python_03 class")|
-> |4|0727|偉傑<br>助教|[Python<br>網路爬蟲（request）](https://reurl.cc/6aXERb "Learning Materials for Python_04 class")|[:clipboard:](https://reurl.cc/gWN0jX "Note for Python_04 class")|[:video_camera:](https://reurl.cc/Dgpn0R "Video for Python_04 class")<br>[:video_camera:](https://reurl.cc/W3YQ1e "Video for Python_04_選修 class")|
-> |5|0727|祐全<br>助教|[Python<br>資料彙整（pandas）& <br> 資料視覺化（plotly）](https://reurl.cc/j8Vkep "Learning Materials for Python_05 class")|[:clipboard:](https://reurl.cc/KAEpng "Note for Python_05 class")|[:video_camera:](https://reurl.cc/yEbNeE "Video for Python_05_pandas class")<br>[:video_camera:](https://reurl.cc/9rANGO "Video for Python_05_plotly class")|
-> |6|0728|芸琤<br>教授|[Python<br>文字探勘（jieba）](https://reurl.cc/DgYE3N "Learning Materials for Python_06 class")| - |[:video_camera:](https://reurl.cc/XWrMLe "Video for Python_06 class")|
-> |7|0728|芸琤<br>教授|[Python<br>文本共現網路分析](https://reurl.cc/R0RmOz "Learning Materials for Python_07 class")| - |[:video_camera:](https://reurl.cc/xGbMkE "Video for Python_07 class")|
+> |1|0726|培莉<br>助教|[Python 基礎1<br>（Anaconda 安裝與 GitHub 帳號註冊、組合 1、組合 2）](https://reurl.cc/yEWQaM "Learning Materials for Python_01 class")|[:clipboard:](https://reurl.cc/0jk28b "Note for Python_01 class")|[:video_camera:](https://youtu.be/U-ymRqvzzEU "Video for Python_01_1 class")<br>[:video_camera:](https://youtu.be/DDjqd88KsaU "Video for Python_01_2 class")|
+> |2|0726|貫綸<br>助教|[Python<br>基礎2（組合 3、組合 4）](https://reurl.cc/pg8WRZ "Learning Materials for Python_02 class")|[:clipboard:](https://reurl.cc/6aXE3O "Note for Python_02 class")|[:video_camera:](https://youtu.be/syb93Yr1fs8 "Video for Python_02 class")|
+> |3|0727|貫綸<br>助教|[Python<br>資料正則化](https://reurl.cc/ZG8roW "Learning Materials for Python_03 class")|[:clipboard:](https://reurl.cc/1Yl2aV "Note for Python_03 class")|[:video_camera:](https://youtu.be/zqc6m5Gt7bs "Video for Python_03 class")|
+> |4|0727|偉傑<br>助教|[Python<br>網路爬蟲（request）](https://reurl.cc/6aXERb "Learning Materials for Python_04 class")|[:clipboard:](https://reurl.cc/gWN0jX "Note for Python_04 class")|[:video_camera:](https://youtu.be/sbM5wwz5Bqg "Video for Python_04 class")|
+> |5|0727|祐全<br>助教|[Python<br>資料彙整（pandas）& <br> 資料視覺化（plotly）](https://reurl.cc/j8Vkep "Learning Materials for Python_05 class")|[:clipboard:](https://reurl.cc/KAEpng "Note for Python_05 class")|[:video_camera:](https://youtu.be/n6ZOfBd2xBo "Video for Python_05_pandas class")<br>[:video_camera:](https://youtu.be/beMuxrKWk6Y "Video for Python_05_plotly class")|
+> |6|0728|芸琤<br>教授|[Python<br>文字探勘（jieba）](https://reurl.cc/DgYE3N "Learning Materials for Python_06 class")| - |[:video_camera:](https://youtu.be/HGPPoaBxyb0 "Video for Python_06 class")|
+> |7|0728|芸琤<br>教授|[Python<br>文本共現網路分析](https://reurl.cc/R0RmOz "Learning Materials for Python_07 class")| - |[:video_camera:](https://youtu.be/SeXWcpITb58 "Video for Python_07 class")|
 > ---
 > * **活動、講座型課程**  
 > 
 > |日期|授課講師|課程名稱|錄影|
 > |:--:|:---:|:----:|:---:|
-> |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4)|[:video_camera:](https://reurl.cc/vq2Vne)|
-> |0729|邵軒磊教授<br>黃詩淳教授|[講座：如何結合深度學習與法律研究 - 人工智慧量刑模型](https://reurl.cc/ogbaMM)|[:video_camera:](https://reurl.cc/4aD0zK)|
-> |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/j82vk2)|
+> |0726|莊東碩 創辦人|[講座：法律科技領域的商業洞察](https://reurl.cc/83Rdl4)|[:video_camera:](https://youtu.be/MemVt1SVa-4)|
+> |0729|邵軒磊教授<br>黃詩淳教授|[講座：如何結合深度學習與法律研究 - 人工智慧量刑模型](https://reurl.cc/ogbaMM)|[:video_camera:](https://youtu.be/keVZQ9ptlio)|
+> |全程|團隊全員|迷你黑客松|[:video_camera:](https://reurl.cc/Zr5GeA  "Video for CP1_0727")<br>[:video_camera:](https://reurl.cc/6E3avd  "Video for CP2_0728")<br>[:video_camera:](https://reurl.cc/12aYvX  "Video for CP3_0729")<br>[:video_camera:](https://youtu.be/61XTb6foZtg  "Video for FinalReport")<br>|
 >
 
 ## :memo: [小組營隊日記](https://reurl.cc/NrOxN6)
