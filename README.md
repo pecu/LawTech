@@ -1,4 +1,4 @@
-# :balance_scale: 東吳大學 X 理律學堂《2021法律科技學暑假營隊》
+# :balance_scale: 東吳大學 X 理律學堂《2022法律科技學暑假營隊》
 
 ## :information_source: 營隊簡介  
 > * 營隊宗旨：  
@@ -6,10 +6,10 @@
 > * 營隊特色：  
 >   * 自動化整理後的資料進行文字探勘與應用發想及實作，以利後續法律作業的分析應用效率。  
 >   * 藉由合作學習、實作專題、迷你黑客松、翻轉教學、現場教學操作實況錄影及程式範例等種種豐富且多元的學習方式，提高學生對於學習的樂趣。
-> * 營隊時間：2021/07/26 ～ 2021/07/30（共5天）  
-> * 營隊地點：[Gather](https://reurl.cc/dGOAnD)
-> * [營隊官網](https://sites.google.com/view/lawtechscu)  
-> * [黑客松發表會引言](https://docs.google.com/presentation/d/e/2PACX-1vS7ghw_l1rrjwp5Qeu_ZIS27dl4Hyy-ZlfoaYJMNY_AErZX1pShsaalPA0rLL9L-KyV6Tknjqmjn1S4/pub?start=false&loop=false&delayms=3000)
+> * 營隊時間：2022/07/04 ～ 2022/07/08（共5天）  
+> * 營隊地點：
+> * [營隊官網]()  
+> * [黑客松發表會引言]()
 >   * 營隊主講師：蔡芸琤 Tsai, Yun-Cheng 教授
 >   * 助教團隊介紹
 >   * 營隊課程暨流程表
@@ -18,7 +18,7 @@
 
 
 ## :books: 課程簡介
-> * **[教學型課程](https://reurl.cc/eEQ6lx)**  
+> * **[教學型課程]()**  
 >
 > |編號|日期|授課講師|課程名稱(教材)|課堂重點|錄影|
 > |:--:|:--:|:---:|:----:|:--:|:---:|
