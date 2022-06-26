@@ -7,5 +7,5 @@
 
 - loc、iloc函數介紹(+練習題)
 - str.contains函數解紹(+練習題)
-- 內欄位處理
+- 欄位處理
 - apply、lambda函數介紹(+練習題)
