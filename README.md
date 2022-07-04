@@ -15,7 +15,7 @@
 
 ## :books: 2022 理律學堂課程簡介
 * **[翻轉課程](https://github.com/pecu/LawTech/tree/main/Learning-Materials)**  
-    |編號|日期|授課<br>講師|課程名稱<br>(教材)|程式碼檔<br>(教材)|課程<br>錄影|
+    |編號|日期|授課<br>講師|課程名稱<br>(教材)|程式碼<br>(教材)|課程<br>錄影|
     |:--:|:--:|:---:|:----|:---:|:---:|
     |1|0708|香瑩<br>助教|[Python 基礎01 <br>（Anaconda 安裝與 GitHub 檔案下載、認識變數與資料形態）](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_01/Python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%B8%80_pdf.pdf "Learning Materials for Python_01 class")|[:computer:](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_01/Python_%E7%B5%84%E5%90%88%E4%B8%80_code.ipynb "Code for Python_01 class")|[:video_camera:](<> "Video for Python_01 class")|
     |2|0708|家瑜<br>助教|[Python 基礎02 <br>（容器形態的概念與應用場景）](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_pdf.pdf "Learning Materials for Python_02 class")|[:computer:](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb "Code for Python_02 class")|[:video_camera:](<> "Video for Python_02 class")|
