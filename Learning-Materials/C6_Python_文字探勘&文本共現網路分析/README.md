@@ -1,5 +1,5 @@
 ## 課程投影片(文字探勘)
-https://docs.google.com/presentation/d/e/2PACX-1vQVhSew5yi0O5uiElLXvoi8XegvqPJHwQWWhbwGC2_3bJjyG2b0xPloHnJwxWXlD73YKjg-qAnawj9F/pub
+https://docs.google.com/presentation/d/1IMKZdPHe30Ij9_xlRIbJSC4ETVmdCkMtl1r6ar_f70g/edit?usp=sharing
 
 ## 課程投影片(文本共現網路分析)
-https://docs.google.com/presentation/d/e/2PACX-1vRnLH9BHK1A1AVQgLd2Vd2KpRY3nzOwYoi0alOXw06_Wync6p13iYAptCYIWF8wVa_lDuZDmlRR-_5j/pub
+https://docs.google.com/presentation/d/1jCBjpwcP8LX-QAlOiZtIxC7Hkeu-5Gasws7yMyywGMA/edit?usp=sharing
